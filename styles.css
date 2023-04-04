@@ -1,3 +1,7 @@
+*{
+    background: #FFFFFF;
+}
+
 .same_text {
     width: 71px;
     height: 29px;
@@ -73,4 +77,74 @@
 
 .page_1_2 {
     padding: 69px;
+}
+
+.page_2_left {
+    box-sizing: border-box;
+    background: url(.jpg), #FFFFFF;
+    border: 5px solid #FFFFFF;
+    
+    border-radius: 200px;
+}
+
+.page_2_right {
+    box-sizing: border-box;
+    background: url(.jpg), #FFFFFF;
+    border: 5px solid #FFFFFF;
+    border-radius: 200px;
+    position: absolute;
+    width: 298px;
+    height: 470px;
+    left: 203px;
+    top: 1280px;
+}
+
+.page_2 {
+    display: flex;
+    align-items: center;
+}
+
+.page_2_1 {
+    padding: 0px 150px 0px 0px;
+}
+
+.about_us {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #0A7777;
+    Width:241.43px;
+    Height:70px;
+}
+
+.page_2_title {
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    color: #000000;
+    Width:570px;
+    Height:200px;
+}
+
+.page_2_text{
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+    Width:570px;
+    Height:170px;
+}
+
+.page_2_number {
+    padding: 0px 80px 50px 0px ;
+}
+
+.page_2_word {
+    padding: 0px 40px 0px 0px ;
 }
