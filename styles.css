@@ -1,0 +1,28 @@
+.same_text {
+    width: 71px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding: 45px;
+}
+
+.Traveli {
+    color: #0A7777;
+    padding:55px 45px;
+}
+
+.text {
+    padding: 55px 45px;
+}
+
+.Sign_up {
+    padding: 49px;
+    
+}
+    
