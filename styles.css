@@ -2,6 +2,8 @@
     background: #FFFFFF;
 }
 
+/* First page  */
+
 .same_text {
     width: 71px;
     height: 29px;
@@ -79,6 +81,8 @@
     padding: 69px;
 }
 
+/* Second page  */
+
 .page_2_left {
     box-sizing: border-box;
     background: url(.jpg), #FFFFFF;
@@ -147,4 +151,49 @@
 
 .page_2_word {
     padding: 0px 40px 0px 0px ;
+}
+
+/* Third page  */
+
+.page_3 {
+    padding: 80px;
+}
+
+.page_3_tour_packages {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #0A7777;
+}
+
+.page_3_text {
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    Weight:700;
+    Size:48px;  
+    Width:500px;
+    Height:200px;
+}
+
+.page_3_points {
+    Width:220px;
+    Height:20px;
+    Top:886px;
+    Left:646px;
+    position: absolute;
+    width: 220px;
+    height: 20px;
+    left: 646px;
+    top: 2650px;
+    padding: 0px 0px 70px 0px;
 }
