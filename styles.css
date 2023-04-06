@@ -197,3 +197,13 @@
     top: 2650px;
     padding: 0px 0px 70px 0px;
 }
+
+.main {
+    padding: 60px 50px;
+  }
+  
+  .section {
+    display: flex;
+    flex-direction: column;
+  }
+  
